@@ -1,6 +1,1 @@
-cas 
-console.log("hlo");
-vadvsdvsdvadvadvvzxas
-asyncascasv
-asvcas
-v
+muneesh clean code
